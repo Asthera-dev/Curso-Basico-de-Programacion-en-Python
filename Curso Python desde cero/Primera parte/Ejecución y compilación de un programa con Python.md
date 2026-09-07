@@ -29,11 +29,11 @@ ___
 
 El Shell de Python
 
-![01_Shell_python](01_Shell_python.png)
+![01_Shell_python](../Imagenes/01_Shell_python.png)
 
 El interprete "traduce" line a por línea. La terminal de Windows puede funcionar al igual que un interprete para Python:
 
-![01_Terminal_con_python](01_Terminal_con_python.png)
+![01_Terminal_con_python](../Imagenes/01_Terminal_con_python.png)
 
 ## Compilador
 

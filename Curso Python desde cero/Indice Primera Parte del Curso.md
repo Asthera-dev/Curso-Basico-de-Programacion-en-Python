@@ -1,4 +1,4 @@
-1. [Ejecución y compilación de un programa con Python](Ejecución%20y%20compilación%20de%20un%20programa%20con%20Python.md)
+1. [Ejecución y compilación de un programa con Python](Primera%20parte/Ejecución%20y%20compilación%20de%20un%20programa%20con%20Python.md)
 2. [Variables en Python](Variables%20en%20Python.md)
 3. [Manipulación de cadenas de caracteres (Strings)](Manipulación%20de%20cadenas%20de%20caracteres%20(Strings).md)
 4. [Palabras Reservadas en Python](Palabras%20Reservadas%20en%20Python.md)

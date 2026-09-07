@@ -62,4 +62,4 @@ Debido a que los editores y entornos, se pueden utilizar y cambiare en el moment
 
 **Comienza la instalación de Python**
 
-[[Indice Primera Parte del Curso]]
+[Indice Primera Parte del Curso](Indice%20Primera%20Parte%20del%20Curso.md)
