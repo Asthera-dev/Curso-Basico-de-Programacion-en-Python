@@ -1,4 +1,4 @@
-Curso de Programación "Python Desde Cero"
+## Curso de Programación "Python Desde Cero"
 
 En este curso aprenderás a desarrollar programas desde lo más básico mediante practicas y proyectos reales.
 

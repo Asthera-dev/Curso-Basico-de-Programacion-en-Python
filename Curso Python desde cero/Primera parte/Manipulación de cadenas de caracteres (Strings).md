@@ -19,7 +19,7 @@ La asignación, consiste en asignar una cadena de caracteres a otra.
 Proceso grafico del proceso:
 _**Aquí se sigue el orden del código a ejecutar. Mostrando tanto las impresiones en pantalla como el proceso de ejecución que existe por detrás
 
-![[(3)_Proceso_de_ejecucion_asignacion.png]]
+![03_Proceso_de_ejecucion_asignacion](03_Proceso_de_ejecucion_asignacion.png)
 
 Posteriormente se recomienda realizar este mismo ejercicio en su computadora.
 
@@ -31,7 +31,7 @@ La concatenación, es una operación que consiste en unir dos cadenas o más, pa
 
 Para lo cual es necesario utilizar el operador +
 
-![[(3)_Proceso_de_ejecucion_concatenacion.png]]
+![3_Proceso_de_ejecucion_concatenacion](3_Proceso_de_ejecucion_concatenacion.png)
 
 ### Búsqueda
 
@@ -41,7 +41,7 @@ Para lo cual es necesario el método **find**.
 
 ***Método: Fragmento de código por parte del lenguaje de programación que podemos implementar.***
 
-![[(3)_Proceso_de_ejecucion_busqueda.png]]
+![03_Proceso_de_ejecucion_busqueda](03_Proceso_de_ejecucion_busqueda.png)
 
 ### La extracción
 
@@ -49,7 +49,7 @@ La extracción se trata de sacar fuera de una cadena una porción de la misma se
 
 Para ello es necesario indicar la ***posición a extraer [1:8]***
 
-![[(3)_Proceso_de_ejecucion_extraccion.png]]
+![03_Proceso_de_ejecucion_extraccion](03_Proceso_de_ejecucion_extraccion.png)
 
 ### La comparación
 
@@ -59,8 +59,8 @@ Para ello se utiliza el operador ==
 
 **Cuando es verdadero:**
 
-![[(3)_Proceso_de_ejecucion_comparacion_verdadera.png]]
+![03_Proceso_de_ejecucion_comparacion_verdadera](03_Proceso_de_ejecucion_comparacion_verdadera.png)
 
 **Cuando es falso:**
 
-![[(3)_Proceso_de_ejecucion_comparacion_falsa.png]]
+![03_Proceso_de_ejecucion_comparacion_falsa](03_Proceso_de_ejecucion_comparacion_falsa.png)

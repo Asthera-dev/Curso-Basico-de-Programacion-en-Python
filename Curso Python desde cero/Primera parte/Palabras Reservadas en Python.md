@@ -39,10 +39,10 @@ Estas palabras son las siguientes:
 
 **Codigo:**
 
-![[(4)_Palabra_reservada_print_codigo.png]]
+![04_Palabra_reservada_print_codigo](04_Palabra_reservada_print_codigo.png)
 
 **Consola:**
 
-![[(4)_Palabra_reservada_print_consola.png]]
+![04_Palabra_reservada_print_consola](04_Palabra_reservada_print_consola.png)
 
 Para corregir lo anterior basta con solo modificar alguna de las letras del comando print cambiando una letra por una mayúscula.

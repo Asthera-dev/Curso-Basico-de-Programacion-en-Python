@@ -42,7 +42,7 @@ Sólo puede tener dos valores: ***True*** (cierto) y ***False*** (falso). Estos 
 
 En Python se expresan mediante el tipo ***bool***.
 
-![[(7)_Tipos_de_datos.png]]
+![07_Tipos_de_datos](07_Tipos_de_datos.png)
 
 **En este punto introducimos el uso de la coma (,) para concatenar dos datos diferentes**.
 

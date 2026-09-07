@@ -2,7 +2,7 @@
 
 En programación, una variable es un espacio en memoria donde se guardan y recuperan los datos que utiliza un programa.
 
-![[(2)_variable.png]]
+![02_variable](02_variable.png)
 
 Cada variable debe tener un nombre, con el cual se podrá identificar y referirse a ella, durante el desarrollo de un programa.
 
@@ -37,7 +37,7 @@ Ya que Python, interpretará que se trata de un texto cuando el dato a almacenar
 
 * **"¡Hola Mundo!"**
 
-![[(2)_variables_en_Python.png]]
+![02_variables_en_Python](02_variables_en_Python.png)
 
 Es un "contenedor" donde podríamos guardan un número entero como 2, un número real o decimal como 2.5 o cadenas de caracteres: "Hola mundo", mejor conocido como texto.
 
@@ -68,11 +68,11 @@ Lo mismo sucede si se quiere almacenar un valor de tipo decimal o real (2.5), co
 
 Ademas:
 
-![[(2)_variables_diferenciadas_por_mayusculas.png]]
+![02_variables_diferenciadas_por_mayusculas](02_variables_diferenciadas_por_mayusculas.png)
 
 Proceso grafico del proceso:
 _**Aquí se sigue el orden del código a ejecutar. Mostrando tanto las impresiones en pantalla como el proceso de ejecución que existe por detrás**_
 
-![[(2)_proceso_de_ejecucion.png]]
+![02_proceso_de_ejecucion](02_proceso_de_ejecucion.png)
 
 Posteriormente se recomienda realizar este mismo ejercicio en su computadora.
