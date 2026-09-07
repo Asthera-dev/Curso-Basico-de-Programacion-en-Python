@@ -1,12 +1,12 @@
 1. [Ejecución y compilación de un programa con Python](Primera%20parte/Ejecución%20y%20compilación%20de%20un%20programa%20con%20Python.md)
-2. [Variables en Python](Variables%20en%20Python.md)
-3. [Manipulación de cadenas de caracteres (Strings)](Manipulación%20de%20cadenas%20de%20caracteres%20(Strings).md)
-4. [Palabras Reservadas en Python](Palabras%20Reservadas%20en%20Python.md)
-5. [Operadores aritméticos en Python](Operadores%20aritméticos%20en%20Python.md)
-6. [Comentarios en Python](Comentarios%20en%20Python.md)
-7. [Tipos de datos en Python](Tipos%20de%20datos%20en%20Python.md)
-8. [Entrada de datos desde el teclado](Entrada%20de%20datos%20desde%20el%20teclado.md)
-9. [Sentencias condicionales simples en Python (if)](Sentencias%20condicionales%20simples%20en%20Python%20(if).md)
+2. [Variables en Python](Primera%20parte/Variables%20en%20Python.md)
+3. [Manipulación de cadenas de caracteres (Strings)](Primera%20parte/Manipulación%20de%20cadenas%20de%20caracteres%20(Strings).md)
+4. [Palabras Reservadas en Python](Primera%20parte/Palabras%20Reservadas%20en%20Python.md)
+5. [Operadores aritméticos en Python](Primera%20parte/Operadores%20aritméticos%20en%20Python.md)
+6. [Comentarios en Python](Primera%20parte/Comentarios%20en%20Python.md)
+7. [Tipos de datos en Python](Primera%20parte/Tipos%20de%20datos%20en%20Python.md)
+8. [Entrada de datos desde el teclado](Primera%20parte/Entrada%20de%20datos%20desde%20el%20teclado.md)
+9. [Sentencias condicionales simples en Python (if)](Primera%20parte/Sentencias%20condicionales%20simples%20en%20Python%20(if).md) ***Hasta esta nota se tiene la ruta relativa.***
 10. [[Sentencias condicionales compuestas en Python (if - esle)]]
 11. [[Sentencias condicionales múltiples en Python (elif)]]
 12. [[Sentencias condicionales anidadas en Python]]

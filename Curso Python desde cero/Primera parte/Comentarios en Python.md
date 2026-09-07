@@ -20,16 +20,19 @@ Se usan formalmente al inicio de funciones, clases o módulos para documentar el
 
 Con lo cual se genera un comentario dentro del código.
 
-	Para visualizar esto, se recomienda realizar un script de python:
+Para visualizar esto, se recomienda realizar un script de Python para visualizar la salida en consola:
 
-	# Esto es un comentario
-	print ("Hola")
+```Python
+# Esto es un comentario
 
-	"Esto es un comentario"
+print ("Hola")
 
-	"""
-	Esto es un
-	comentario
-	multilinea
-	"""
+"Esto es un comentario"
+
+"""
+Esto es un
+comentario
+multilinea
+"""
+```
 

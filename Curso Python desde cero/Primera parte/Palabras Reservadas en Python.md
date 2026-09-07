@@ -39,10 +39,20 @@ Estas palabras son las siguientes:
 
 **Codigo:**
 
-![04_Palabra_reservada_print_codigo](04_Palabra_reservada_print_codigo.png)
+![04_Palabra_reservada_print_codigo](../Imagenes/04_Palabra_reservada_print_codigo.png)
 
 **Consola:**
 
-![04_Palabra_reservada_print_consola](04_Palabra_reservada_print_consola.png)
+![04_Palabra_reservada_print_consola](../Imagenes/04_Palabra_reservada_print_consola.png)
 
 Para corregir lo anterior basta con solo modificar alguna de las letras del comando print cambiando una letra por una mayúscula.
+
+Ejemplo:
+
+```Python
+prinT = 5
+Print = 6
+resultado = prinT + Print
+
+print(resultado)
+```

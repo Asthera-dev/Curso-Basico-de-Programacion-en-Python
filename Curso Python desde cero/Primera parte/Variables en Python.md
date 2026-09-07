@@ -2,20 +2,25 @@
 
 En programación, una variable es un espacio en memoria donde se guardan y recuperan los datos que utiliza un programa.
 
-![02_variable](02_variable.png)
+![02_variable](../Imagenes/02_variable.png)
 
 Cada variable debe tener un nombre, con el cual se podrá identificar y referirse a ella, durante el desarrollo de un programa.
 
 En Python, el nombre de una variable, no puede coincidir con los nombres de los comandos asignados a este lenguaje de programación, además de que no deberá contener espacios en blanco.
 
-Es decir, una variable no podría llamarse:
-
-* **"print"**
+```Python
+# En Python, una variable no podría llamarse:
+print = ""
+```
 
 Ya que este es uno de los comandos asignados a Python
 
 Y tampoco podría llamarse:
-* **"Nom bre"**
+
+```Python
+# En Python, una variable no puede tener espacios en blanco:
+Nom bre = ""
+```
 
 Ya que contiene un espacio en blanco.
 
@@ -37,7 +42,7 @@ Ya que Python, interpretará que se trata de un texto cuando el dato a almacenar
 
 * **"¡Hola Mundo!"**
 
-![02_variables_en_Python](02_variables_en_Python.png)
+![02_variables_en_Python](../Imagenes/02_variables_en_Python.png)
 
 Es un "contenedor" donde podríamos guardan un número entero como 2, un número real o decimal como 2.5 o cadenas de caracteres: "Hola mundo", mejor conocido como texto.
 
@@ -68,11 +73,11 @@ Lo mismo sucede si se quiere almacenar un valor de tipo decimal o real (2.5), co
 
 Ademas:
 
-![02_variables_diferenciadas_por_mayusculas](02_variables_diferenciadas_por_mayusculas.png)
+![02_variables_diferenciadas_por_mayusculas](../Imagenes/02_variables_diferenciadas_por_mayusculas.png)
 
 Proceso grafico del proceso:
 _**Aquí se sigue el orden del código a ejecutar. Mostrando tanto las impresiones en pantalla como el proceso de ejecución que existe por detrás**_
 
-![02_proceso_de_ejecucion](02_proceso_de_ejecucion.png)
+![02_proceso_de_ejecucion](../Imagenes/02_proceso_de_ejecucion.png)
 
 Posteriormente se recomienda realizar este mismo ejercicio en su computadora.

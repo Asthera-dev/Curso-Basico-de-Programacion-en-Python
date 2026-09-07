@@ -39,8 +39,10 @@ El interprete "traduce" line a por línea. La terminal de Windows puede funciona
 
 Código:
 
-	print("Hola mundo")
-	print("Estoy aprendiendo Python")
+```Python
+print("Hola mundo")
+print("Estoy aprendiendo Python")
+```
 
 Para poder ejecutar el código es necesario guardar primero el archivo y después presionar en "Run". Es necesario acostumbrarnos a especificar que tipo de archivo es con la terminación ".py".
 
