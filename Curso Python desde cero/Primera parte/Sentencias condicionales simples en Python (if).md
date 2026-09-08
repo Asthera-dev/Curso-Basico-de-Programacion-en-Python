@@ -1,3 +1,4 @@
+# Sentencias condicionales simples en Python (if)
 Una **sentencia condicional**, es una **instrucción** o grupo de instrucciones que se ejecutan cuando a un programa se le establece una condición lógica. Al cumplirse dicha condición, el programa ejecuta la instrucción que a sido asignada a esta condición.
 
 Las sentencias condicionales nos ayudan a controlar la toma de decisiones dentro de un programa, haciendo uso de la lógica.
@@ -39,7 +40,7 @@ Cuando una instrucción no se encuentra "dentro" de nuestra sentencia condiciona
 
 ![09_diagrama_de_flujo_de_la_sintaxis_de_una_sentencia_condicional_simple](../Imagenes/09_diagrama_de_flujo_de_la_sintaxis_de_una_sentencia_condicional_simple.png)
 
-### Proceso de ejecución con una sentencia condicional:
+### Proceso de ejecución de una sentencia condicional simple:
 
 ![09_Proceso_de_ejecucion_con_sentencia_verdadera](../Imagenes/09_Proceso_de_ejecucion_con_sentencia_verdadera.png)
 
@@ -54,7 +55,7 @@ En cambio, cuando la sentencia es falsa, nuestro programa toma el camino de fals
  ```python
 # Crea un programa llamado "Sistema para calcular el promedio de un alumno".
  
-# Donde el usuario debera agregar los siguientes datos:
+# Sistema donde el usuario debera ingresar mediante la función 'input()' los siguientes datos:
 #	* Nombre
 #	* Calificación en matemáticas
 #	* Calificación en quimica

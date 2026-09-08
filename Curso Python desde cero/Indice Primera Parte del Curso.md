@@ -7,9 +7,9 @@
 7. [Tipos de datos en Python](Primera%20parte/Tipos%20de%20datos%20en%20Python.md)
 8. [Entrada de datos desde el teclado](Primera%20parte/Entrada%20de%20datos%20desde%20el%20teclado.md)
 9. [Sentencias condicionales simples en Python (if)](Primera%20parte/Sentencias%20condicionales%20simples%20en%20Python%20(if).md)
-10. [[Sentencias condicionales compuestas en Python (if - esle)]]
-11. [[Sentencias condicionales múltiples en Python (elif)]]
-12. [[Sentencias condicionales anidadas en Python]]
+10. [Sentencias condicionales compuestas en Python (if - esle)](Primera%20parte/Sentencias%20condicionales%20compuestas%20en%20Python%20(if%20-%20esle).md)
+11. [Sentencias condicionales múltiples en Python (elif)](Primera%20parte/Sentencias%20condicionales%20múltiples%20en%20Python%20(elif).md)
+12. [Sentencias condicionales anidadas en Python](Primera%20parte/Sentencias%20condicionales%20anidadas%20en%20Python.md)
 13. [[Operadores relacionales en Python]]
 14. [[Operadores lógicos en Python]]
 15. [[Ejercicio práctico 1]]
