@@ -6,7 +6,7 @@
 6. [Comentarios en Python](Primera%20parte/Comentarios%20en%20Python.md)
 7. [Tipos de datos en Python](Primera%20parte/Tipos%20de%20datos%20en%20Python.md)
 8. [Entrada de datos desde el teclado](Primera%20parte/Entrada%20de%20datos%20desde%20el%20teclado.md)
-9. [Sentencias condicionales simples en Python (if)](Primera%20parte/Sentencias%20condicionales%20simples%20en%20Python%20(if).md) ***Hasta esta nota se tiene la ruta relativa.***
+9. [Sentencias condicionales simples en Python (if)](Primera%20parte/Sentencias%20condicionales%20simples%20en%20Python%20(if).md)
 10. [[Sentencias condicionales compuestas en Python (if - esle)]]
 11. [[Sentencias condicionales múltiples en Python (elif)]]
 12. [[Sentencias condicionales anidadas en Python]]

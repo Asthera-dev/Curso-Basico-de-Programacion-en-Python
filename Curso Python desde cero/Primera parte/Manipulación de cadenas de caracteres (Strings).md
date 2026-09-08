@@ -31,7 +31,7 @@ La concatenación, es una operación que consiste en unir dos cadenas o más, pa
 
 Para lo cual es necesario utilizar el operador +
 
-![3_Proceso_de_ejecucion_concatenacion](../Imagenes/3_Proceso_de_ejecucion_concatenacion.png)
+![03_Proceso_de_ejecucion_concatenacion](../Imagenes/03_Proceso_de_ejecucion_concatenacion.png)
 
 ### Búsqueda
 

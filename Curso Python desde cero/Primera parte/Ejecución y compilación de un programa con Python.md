@@ -39,7 +39,7 @@ El interprete "traduce" line a por línea. La terminal de Windows puede funciona
 
 Código:
 
-```Python
+```python
 print("Hola mundo")
 print("Estoy aprendiendo Python")
 ```

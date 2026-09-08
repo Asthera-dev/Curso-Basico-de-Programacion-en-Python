@@ -6,7 +6,7 @@ Empezamos con un ejercicio de previsualización:
 
 **Previsualización del ejercicio 2**.
 
-![08._previsualizacion_ejercicio_dos](../Imagenes/08._previsualizacion_ejercicio_dos.png)
+![08._previsualizacion_ejercicio_dos](../Imagenes/08_previsualizacion_ejercicio_dos.png)
 
 ___
 En este punto introducimos el uso de la palabra reservada ***Input ()***
@@ -21,8 +21,11 @@ Realizamos, paso a paso, los ejercicios mostrados al inicio:
 
 ![08_ejercicio_uno_error](../Imagenes/08_ejercicio_uno_error.png)
 
-	Posteriormente aprenderemos a validar datos para evitar que el usuario introduzca valores que no se estan solicitando, evitando errores en el programa.
+***Posteriormente aprenderemos a validar datos para evitar que el usuario introduzca valores que no se estan solicitando, evitando de esta forma errores en el programa.***
 
 ## Ejercicio 2:
 
 ![08_ejercicio_dos](../Imagenes/08_ejercicio_dos.png)
+
+***De esta forma terminamos con esta sección del curso donde inducimos a los estudiantes al uso de la función input() de manera dinámica mediante dos ejercicios.***
+
