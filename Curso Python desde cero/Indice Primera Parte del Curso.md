@@ -10,9 +10,9 @@
 10. [Sentencias condicionales compuestas en Python (if - esle)](Primera%20parte/Sentencias%20condicionales%20compuestas%20en%20Python%20(if%20-%20esle).md)
 11. [Sentencias condicionales múltiples en Python (elif)](Primera%20parte/Sentencias%20condicionales%20múltiples%20en%20Python%20(elif).md)
 12. [Sentencias condicionales anidadas en Python](Primera%20parte/Sentencias%20condicionales%20anidadas%20en%20Python.md)
-13. [[Operadores relacionales en Python]]
-14. [[Operadores lógicos en Python]]
-15. [[Ejercicio práctico 1]]
+13. [Operadores relacionales en Python](Primera%20parte/Operadores%20relacionales%20en%20Python.md)
+14. [Operadores lógicos en Python](Primera%20parte/Operadores%20lógicos%20en%20Python.md)
+15. [Ejercicio práctico 1](Primera%20parte/Ejercicio%20práctico%201.md)
 16. [[Ejercicio práctico 2 (número par o impar]]
 17. [[Ejercicio práctico 3 (el número más grande]]
 18. [[Operadores de asignación]]
