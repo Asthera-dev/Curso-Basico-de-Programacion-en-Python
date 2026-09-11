@@ -15,8 +15,8 @@
 15. [Ejercicio práctico 1](Primera%20parte/Ejercicio%20práctico%201.md)
 16. [Ejercicio práctico 2 (número par o impar)](Primera%20parte/Ejercicio%20práctico%202%20(número%20par%20o%20impar).md)
 17. [Ejercicio práctico 3 (el número más grande)](Primera%20parte/Ejercicio%20práctico%203%20(el%20número%20más%20grande).md)
-18. [[Operadores de asignación]]
-19. [[Ejercicio práctico 4 (Calculadora con una sola variable)]]
+18. [Operadores de asignación](Primera%20parte/Operadores%20de%20asignación.md)
+19. [Ejercicio práctico 4 (Calculadora con una sola variable)](Primera%20parte/Ejercicio%20práctico%204%20(Calculadora%20con%20una%20sola%20variable).md)
 20. [[Los parámetros end y sep]]
 21. [[Bucle o ciclo while]]
 22. [[Ejercicio práctico 5 (Sucesión de Finobacci)]]

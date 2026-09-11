@@ -1,5 +1,5 @@
 
-# Practica propuesta # 3
+# Practica propuesta #3
 
 Desarrollar un programa que solicite tres números enteros desde teclado al usuario, posteriormente, el programa deberá determinar e indicar a través de un mensaje en pantalla cual de los tres números es el más grande.
 
@@ -42,7 +42,7 @@ graph TD
 ```
 
 Donde:
-* **nu**: Corresponde al primero número
+* **nu**: Corresponde al primer número
 * **nd**: Corresponde al segundo número
 * **nt**:  Corresponde al tercer número 
 

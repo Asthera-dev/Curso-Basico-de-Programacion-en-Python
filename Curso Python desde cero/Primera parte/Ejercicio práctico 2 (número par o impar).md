@@ -1,4 +1,4 @@
-# Practica Propuesta # 2
+# Practica Propuesta #2
 
 Desarrollar un programa que solicite un número entero desde teclado al usuario, posteriormente, el programa deberá determinar e indicar a través de un mensaje si el número introducido es par o impar.
 
