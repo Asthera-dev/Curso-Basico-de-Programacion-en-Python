@@ -25,6 +25,8 @@ numero_dos = 4
 resultado = numero_uno + numero_dos
 
 print("El resultado de la suma es: " + str(resultado))
+
+# Salida: 9
 ```
 
 ## Resta o sustracción
@@ -40,6 +42,8 @@ numero_dos = 4
 resultado = numero_uno - numero_dos
 
 print("El resultado de la resta es: " + str(resultado))
+
+# Salida: 1
 ```
 
 ## Multiplicación
@@ -55,6 +59,8 @@ numero_dos = 4
 resultado = numero_uno * numero_dos
 
 print("El resultado de la multiplicación es: " + str(resultado))
+
+# Salida: 20
 ```
 
 ## Exponente o potencia
@@ -70,6 +76,8 @@ exponente = 5
 resultado = numero_uno ** exponente
 
 print("El resultado del exponente es: " + str(resultado))
+
+# Salida: 32
 ```
 
 ## División
@@ -85,6 +93,8 @@ numero_dos = 2
 resultado = numero_uno / numero_dos
 
 print("El resultado de la división es: " + str(resultado))
+
+# Salida: 2
 ```
 
 ## Módulo o resto
@@ -100,6 +110,35 @@ numero_dos = 8
 resultado = numero_uno % numero_dos
 
 print("El resultado del modulo es: " + str(resultado))
+
+# Salida: 6
+# Esto puede ser algo complicado de entender, pero veamoslo de la siguiente manera:
+
+# Al dividir 30 entre 8 obtenemos 3.75.
+# Es decir, el número 8 "cabe" 3 veces en el 30.
+
+# Al multiplicar 8 por 3 obtenemos 24.
+
+# El modulo son lo "números faltantes" para "llegar" a nuestro número.
+# En este caso, a 24 le falta 6 para ser 30.
+
+###################################################################################
+
+print("modulo. Ejemplo 2:")
+numero_uno = 35
+numero_dos = 4
+resultado = numero_uno % numero_dos
+
+print("El resultado del modulo es: " + str(resultado))
+
+# Salida: 3
+
+# Debido a que:
+
+# 35 entre 4 es: 8
+# 8 por 4 son: 32
+
+# 35 menos 32 es: 3     - Donde 3 es el modulo. -
 ```
 
 ## División entera
@@ -115,5 +154,25 @@ numero_dos = 2
 resultado = numero_uno // numero_dos
 
 print("El resultado de la división entera es: " + str(resultado))
+
+# Salida: 2
+
+# La División entera, como su nombre indica, solo toma la parte entera de un número.
+
+###################################################################################
+print("división entera. Ejemplo 2:")
+numero_uno = 35
+numero_dos = 4
+resultado = numero_uno // numero_dos
+
+print("El resultado de la división entera es: " + str(resultado))
+
+# Salida: 8
+
+# Debido a que:
+
+# 35 entre 4 es: 8.75
+
+# La división entera solo toma el numero entero. Es decir, el número 8.
 ```
 
