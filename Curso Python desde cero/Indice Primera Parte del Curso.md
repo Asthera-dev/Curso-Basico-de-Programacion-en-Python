@@ -12,7 +12,7 @@
 12. [Sentencias condicionales anidadas en Python](Primera%20parte/Sentencias%20condicionales%20anidadas%20en%20Python.md)
 13. [Operadores relacionales en Python](Primera%20parte/Operadores%20relacionales%20en%20Python.md)
 14. [Operadores lógicos en Python](Primera%20parte/Operadores%20lógicos%20en%20Python.md)
-15. [Ejercicio práctico 1](Primera%20parte/Ejercicio%20práctico%201.md)
+15. [Ejercicio práctico 1 (Sistema para determinar días de vacaciones en Rappi)](Primera%20parte/Ejercicio%20práctico%201%20(Sistema%20para%20determinar%20días%20de%20vacaciones%20en%20Rappi).md)
 16. [Ejercicio práctico 2 (número par o impar)](Primera%20parte/Ejercicio%20práctico%202%20(número%20par%20o%20impar).md)
 17. [Ejercicio práctico 3 (el número más grande)](Primera%20parte/Ejercicio%20práctico%203%20(el%20número%20más%20grande).md)
 18. [Operadores de asignación](Primera%20parte/Operadores%20de%20asignación.md)
@@ -22,10 +22,10 @@
 22. [Ejercicio práctico 5 (Sucesión de Fibonacci)](Primera%20parte/Ejercicio%20práctico%205%20(Sucesión%20de%20Fibonacci).md)
 23. [Las sentencias break y continue con while](Primera%20parte/Las%20sentencias%20break%20y%20continue%20con%20while.md)
 24. [La función len()](Primera%20parte/La%20función%20len().md)
-25. [[Concatenación en Python con el método format()]]
-26. [[Concatenación en Python con f-string]]
-27. [[El método strip()]]
-28. [[Los métodos rstrip() y lstrip()]]
+25. [Concatenación en Python con el método format()](Primera%20parte/Concatenación%20en%20Python%20con%20el%20método%20format().md)
+26. [Concatenación en Python con f-string](Primera%20parte/Concatenación%20en%20Python%20con%20f-string.md)
+27. [El método strip()](Primera%20parte/El%20método%20strip().md)
+28. [Los métodos rstrip() y lstrip()](Primera%20parte/Los%20métodos%20rstrip()%20y%20lstrip().md)
 29. [[Los métodos istitle() y title()]]
 30. [[Los métodos islower(), lower(), isupper() y upper()]]
 31. [[El método swapcase()]]
