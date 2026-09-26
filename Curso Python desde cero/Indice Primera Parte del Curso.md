@@ -26,15 +26,15 @@
 26. [Concatenación en Python con f-string](Primera%20parte/Concatenación%20en%20Python%20con%20f-string.md)
 27. [El método strip()](Primera%20parte/El%20método%20strip().md)
 28. [Los métodos rstrip() y lstrip()](Primera%20parte/Los%20métodos%20rstrip()%20y%20lstrip().md)
-29. [[Los métodos istitle() y title()]]
-30. [[Los métodos islower(), lower(), isupper() y upper()]]
-31. [[El método swapcase()]]
-32. [[El método capitalize()]]
-33. [[Los métodos center(), ljust() y rjust()]]
-34. [[El método count()]]
-35. [[Los métodos startswith() y endswith()]]
-36. [[Substrings]]
-37. [[Ejercicio práctico 6 (Eliminar una palabra)]]
+29. [Los métodos istitle() y title()](Primera%20parte/Los%20métodos%20istitle()%20y%20title().md)
+30. [Los métodos islower(), lower(), isupper() y upper()](Primera%20parte/Los%20métodos%20islower(),%20lower(),%20isupper()%20y%20upper().md)
+31. [El método swapcase()](Primera%20parte/El%20método%20swapcase().md)
+32. [El método capitalize()](Primera%20parte/El%20método%20capitalize().md)
+33. [Los métodos center(), ljust() y rjust()](Primera%20parte/Los%20métodos%20center(),%20ljust()%20y%20rjust().md)
+34. [El método count()](Primera%20parte/El%20método%20count().md)
+35. [Los métodos startswith() y endswith()](Primera%20parte/Los%20métodos%20startswith()%20y%20endswith().md)
+36. [Substrings](Primera%20parte/Substrings.md)
+37. [Ejercicio práctico 6 (Eliminar una palabra)](Primera%20parte/Ejercicio%20práctico%206%20(Eliminar%20una%20palabra).md)
 38. [[El ciclo o bucle for]]
 39. [[Ejercicio práctico 7 (Invertir un String)]]
 40. [[La clase range]]
