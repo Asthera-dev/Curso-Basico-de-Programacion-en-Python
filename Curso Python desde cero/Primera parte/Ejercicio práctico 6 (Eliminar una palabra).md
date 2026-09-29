@@ -11,8 +11,9 @@ Ejemplo:
 
 ```python
 # Palabra a eliminar: cuando
-# Parabra a trabajar: "Siempre se puede cuando se quiere"
+# Frase a trabajar: "Siempre se puede cuando se quiere"
 
 # Resultado despues de eliminar: "Se puede se quiere"
 ```
 
+La respuesta a este ejercicio se realizara en clase.

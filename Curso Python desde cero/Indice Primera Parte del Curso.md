@@ -35,10 +35,10 @@
 35. [Los métodos startswith() y endswith()](Primera%20parte/Los%20métodos%20startswith()%20y%20endswith().md)
 36. [Substrings](Primera%20parte/Substrings.md)
 37. [Ejercicio práctico 6 (Eliminar una palabra)](Primera%20parte/Ejercicio%20práctico%206%20(Eliminar%20una%20palabra).md)
-38. [[El ciclo o bucle for]]
-39. [[Ejercicio práctico 7 (Invertir un String)]]
-40. [[La clase range]]
-41. [[El bucle for y la clase range()]])
+38. [El ciclo o bucle for](Primera%20parte/El%20ciclo%20o%20bucle%20for.md)
+39. [Ejercicio práctico 7 (Invertir un String)](Primera%20parte/Ejercicio%20práctico%207%20(Invertir%20un%20String).md)
+40. [La clase range](Primera%20parte/La%20clase%20range.md)
+41. [El bucle for y la clase range()](Primera%20parte/El%20bucle%20for%20y%20la%20clase%20range().md)
 42. [[Ejercicio práctico 8 (Tablas de multiplicar)]]
 43. [[Ejercicio práctico 9 (String sin vocales)]]
 44. [[Listas]]
