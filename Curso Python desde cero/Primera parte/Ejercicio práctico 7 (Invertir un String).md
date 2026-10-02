@@ -13,3 +13,7 @@ Ejemplo del programa:
 # String a invertir: "Estoy aprendiendo Python"
 # String invertido: "nohtyP odneidnerpa yotsE"
 ```
+
+> Se recomienda realizar el ejercicio por cuenta propia, sin el uso de la Inteligencia Artificial y con todo el conocimiento adquirido hasta el momento.
+> 
+> La respuesta a este ejercicio se tratara en la clase presencial.

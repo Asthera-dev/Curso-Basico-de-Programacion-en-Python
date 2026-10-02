@@ -157,7 +157,7 @@ print(string[0:0:3])
 
 Donde Python nos devuelve los valores encasillados en dicho rango y respetando los saltos especificados (en este caso 3):
 
-![](../../../Pasted%20image%2020260926103940.png)
+![36_slicing_con_tres_valore_v2](../Imagenes/36_slicing_con_tres_valore_v2.png)
 
 > Para comprender mejor este tema, se recomienda realizar el siguiente ejercicio en su computadora modificando las variables y/o las líneas de código:
 

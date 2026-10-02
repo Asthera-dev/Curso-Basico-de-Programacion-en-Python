@@ -16,4 +16,6 @@ Ejemplo:
 # Resultado despues de eliminar: "Se puede se quiere"
 ```
 
-La respuesta a este ejercicio se realizara en clase.
+> Se recomienda realizar el ejercicio por cuenta propia, sin el uso de la Inteligencia Artificial y con todo el conocimiento adquirido hasta el momento.
+> 
+> La respuesta a este ejercicio se tratara en la clase presencial.

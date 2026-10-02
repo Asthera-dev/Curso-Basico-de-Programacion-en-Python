@@ -2,6 +2,8 @@
 
 En Python, el ciclo o bucle for es una estructura de control que nos permite repetir un bloque de instrucciones (sentencias), cierta cantidad de veces.
 
+## Sintaxis
+
 Sintaxis del ciclo o bucle for
 
 ```python

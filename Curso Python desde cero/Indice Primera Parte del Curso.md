@@ -39,13 +39,13 @@
 39. [Ejercicio práctico 7 (Invertir un String)](Primera%20parte/Ejercicio%20práctico%207%20(Invertir%20un%20String).md)
 40. [La clase range](Primera%20parte/La%20clase%20range.md)
 41. [El bucle for y la clase range()](Primera%20parte/El%20bucle%20for%20y%20la%20clase%20range().md)
-42. [[Ejercicio práctico 8 (Tablas de multiplicar)]]
-43. [[Ejercicio práctico 9 (String sin vocales)]]
-44. [[Listas]]
-45. [[Acceder a los elementos de una lista]]
-46. [[Modificar los elementos de una lista]]
-47. [[Agregar elementos a una lista - Método append()]]
-48. [[Insertar elementos a una lista - Método insert()]]
+42. [Ejercicio práctico 8 (Tablas de multiplicar)](Primera%20parte/Ejercicio%20práctico%208%20(Tablas%20de%20multiplicar).md)
+43. [Ejercicio práctico 9 (String sin vocales)](Primera%20parte/Ejercicio%20práctico%209%20(String%20sin%20vocales).md)
+44. [Listas](Primera%20parte/Listas.md)
+45. [Acceder a los elementos de una lista](Primera%20parte/Acceder%20a%20los%20elementos%20de%20una%20lista.md)
+46. [Modificar los elementos de una lista](Primera%20parte/Modificar%20los%20elementos%20de%20una%20lista.md)
+47. [Agregar elementos a una lista - Método append()](Primera%20parte/Agregar%20elementos%20a%20una%20lista%20-%20Método%20append().md)
+48. [Insertar elementos a una lista - Método insert()](Primera%20parte/Insertar%20elementos%20a%20una%20lista%20-%20Método%20insert().md)
 49. [[Eliminar elementos de una lista - Método pop()]]
 50. [[Eliminar elementos de una lista - Método remove()]]
 51. [[Eliminar una lista - La instrucción (del)]]
