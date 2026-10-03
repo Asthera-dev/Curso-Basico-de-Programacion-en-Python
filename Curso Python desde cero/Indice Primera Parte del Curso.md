@@ -46,18 +46,18 @@
 46. [Modificar los elementos de una lista](Primera%20parte/Modificar%20los%20elementos%20de%20una%20lista.md)
 47. [Agregar elementos a una lista - Método append()](Primera%20parte/Agregar%20elementos%20a%20una%20lista%20-%20Método%20append().md)
 48. [Insertar elementos a una lista - Método insert()](Primera%20parte/Insertar%20elementos%20a%20una%20lista%20-%20Método%20insert().md)
-49. [[Eliminar elementos de una lista - Método pop()]]
-50. [[Eliminar elementos de una lista - Método remove()]]
-51. [[Eliminar una lista - La instrucción (del)]]
-52. [[Invertir una lista - Método reverse]]
-53. [[Ordenar elementos de una lista - Método sort()]]
-54. [[Buscar elementos de una lista - Método index()]]
-55. [[Concatenar lista - Método extend()]]
-56. [[Sumar los elementos de una lista - Método sum()]]
-57. [[Ejercicio práctico 10 (Manejo de listas)]]
-58. [[Ejercicio práctico 11 (Eliminar caracteres continuos)]]
-59. [[Ejercicio práctico 12 (Una lista son dos listas)]]
-60. [[Constructor list() - Convertir objetos a listas]]
+49. [Eliminar elementos de una lista - Método pop()](Primera%20parte/Eliminar%20elementos%20de%20una%20lista%20-%20Método%20pop().md)
+50. [Eliminar elementos de una lista - Método remove()](Primera%20parte/Eliminar%20elementos%20de%20una%20lista%20-%20Método%20remove().md)
+51. [Eliminar una lista - La instrucción (del)](Primera%20parte/Eliminar%20una%20lista%20-%20La%20instrucción%20(del).md)
+52. [Invertir una lista - Método reverse](Primera%20parte/Invertir%20una%20lista%20-%20Método%20reverse.md)
+53. [Ordenar elementos de una lista - Método sort()](Primera%20parte/Ordenar%20elementos%20de%20una%20lista%20-%20Método%20sort().md)
+54. [Buscar elementos de una lista - Método index()](Primera%20parte/Buscar%20elementos%20de%20una%20lista%20-%20Método%20index().md)
+55. [Concatenar lista - Método extend()](Primera%20parte/Concatenar%20lista%20-%20Método%20extend().md)
+56. [Sumar los elementos de una lista - Método sum()](Primera%20parte/Sumar%20los%20elementos%20de%20una%20lista%20-%20Método%20sum().md)
+57. [Ejercicio práctico 10 (Manejo de listas)](Primera%20parte/Ejercicio%20práctico%2010%20(Manejo%20de%20listas).md)
+58. [Ejercicio práctico 11 (Eliminar caracteres continuos)](Primera%20parte/Ejercicio%20práctico%2011%20(Eliminar%20caracteres%20continuos).md)
+59. [Ejercicio práctico 12 (Una lista son dos listas)](Primera%20parte/Ejercicio%20práctico%2012%20(Una%20lista%20son%20dos%20listas).md)
+60. [Constructor list() - Convertir objetos a listas](Primera%20parte/Constructor%20list()%20-%20Convertir%20objetos%20a%20listas.md)
 61. [[Listas anidadas]]
 62. [[Matrices con listas anidadas]]
 63. [[Matrices con el ciclo for]]

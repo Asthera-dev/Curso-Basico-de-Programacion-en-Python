@@ -40,4 +40,38 @@ Como se observa, el elemento que deseamos insertar se agrega en la posición cer
 
 Ejemplo 2:
 
+```python
+# Ejemplo 2:
 
+letras = ["a","b", "d", "f", "g"]
+print(f"Lista antes del cambio: {letras}")
+letras.insert(2,"c")
+print(f"Lista despues del método append(): {letras}")
+# Salida:
+
+# Lista antes del cambio: ['a', 'b', 'd', 'f', 'g']
+# Lista despues del método append(): ['a', 'b', 'c', 'd', 'f', 'g']
+```
+
+![48_agregando_un_elemento_a_la_lista_v2](../Imagenes/48_agregando_un_elemento_a_la_lista_v2.png)
+
+Ejemplo 3
+
+```python
+# Ejemplo 3:
+
+letras = ["b", "d", "f", "g"]
+print(f"Lista antes del cambio: {letras}")
+letras.insert(100,"a")
+print(f"Lista despues del método append(): {letras}")
+# Salida:
+
+# Lista antes del cambio: ['b', 'd', 'f', 'g']
+# Lista despues del método append(): ['b', 'd', 'f', 'g' 'a']
+```
+
+Como se observa en el ejercicio anterior, cuando Python recibe una posición superior a la cantidad existente en la lista, agrega el elemento al final:
+
+![48_agregando_un_elemento_a_la_lista_v3](../Imagenes/48_agregando_un_elemento_a_la_lista_v3.png)
+
+> Se recomienda practicar este tema modificando los parámetros y valores de los ejercicios anteriormente presentados para comprender su funcionamiento. 
