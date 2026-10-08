@@ -51,4 +51,3 @@ Finalmente:
 
  > Se recomienda practicar este tema modificando los parámetros y valores de los ejercicios anteriormente presentados para comprender su funcionamiento.
  
- 

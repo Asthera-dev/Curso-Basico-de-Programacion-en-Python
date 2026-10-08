@@ -65,16 +65,16 @@
 65. [Suma de matrices](Primera%20parte/Suma%20de%20matrices.md)
 66. [Diccionarios en Python](Primera%20parte/Diccionarios%20en%20Python.md)
 67. [Acceder a los elementos de un diccionario](Primera%20parte/Acceder%20a%20los%20elementos%20de%20un%20diccionario.md)
-68. [El método items](El%20método%20items.md)
-69. [[El método keys()]]
-70. [[EL método values()]]
-71. [[El método clear()]]
-72. [[Modificar y agregar elementos a un diccionario]]
-73. [[El método copy()]]
-74. [[El método fromkeys()]]
-75. [[El método get()]]
-76. [[El método popitem()]]
-77. [[Cómo utilizar el método pop() con diccionarios]]
+68. [El método items()](Primera%20parte/El%20método%20items().md)
+69. [El método keys()](Primera%20parte/El%20método%20keys().md)
+70. [EL método values()](Primera%20parte/EL%20método%20values().md)
+71. [El método clear()](Primera%20parte/El%20método%20clear().md)
+72. [Modificar y agregar elementos a un diccionario](Primera%20parte/Modificar%20y%20agregar%20elementos%20a%20un%20diccionario.md)
+73. [El método copy()](Primera%20parte/El%20método%20copy().md)
+74. [El método fromkeys()](Primera%20parte/El%20método%20fromkeys().md)
+75. [El método get()](Primera%20parte/El%20método%20get().md)
+76. [El método popitem()](Primera%20parte/El%20método%20popitem().md)
+77. [Cómo utilizar el método pop() con diccionarios](Primera%20parte/Cómo%20utilizar%20el%20método%20pop()%20con%20diccionarios.md)
 78. [[El método setdefault()]]
 79. [[El método update()]]
 80. [[Diccionarios y el ciclo for (Cómo recorrer un diccionario)]]
