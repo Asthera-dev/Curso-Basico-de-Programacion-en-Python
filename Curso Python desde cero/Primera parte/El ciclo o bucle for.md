@@ -83,4 +83,4 @@ print("Fin del programa")
 # Fin del programa
 ```
 
-> De momento lo dejaremos hasta aquí, pero en la siguiente nota continuaremos trabajando y practicando con el "ciclo o buble for".
+> De momento lo dejaremos hasta aquí, pero en la siguiente nota continuaremos trabajando y practicando con el "ciclo o bucle for".

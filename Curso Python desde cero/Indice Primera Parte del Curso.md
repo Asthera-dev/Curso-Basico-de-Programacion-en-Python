@@ -75,11 +75,11 @@
 75. [El método get()](Primera%20parte/El%20método%20get().md)
 76. [El método popitem()](Primera%20parte/El%20método%20popitem().md)
 77. [Cómo utilizar el método pop() con diccionarios](Primera%20parte/Cómo%20utilizar%20el%20método%20pop()%20con%20diccionarios.md)
-78. [[El método setdefault()]]
-79. [[El método update()]]
-80. [[Diccionarios y el ciclo for (Cómo recorrer un diccionario)]]
-81. [[Dominando los Diccionarios en Python (5 Ejercicios Clave)]]
-82. [[Ejercicio práctico 15 (frecuencia de letras en texto)]]
+78. [El método setdefault()](Primera%20parte/El%20método%20setdefault().md)
+79. [El método update()](Primera%20parte/El%20método%20update().md)
+80. [Diccionarios y el ciclo for (Cómo recorrer un diccionario)](Primera%20parte/Diccionarios%20y%20el%20ciclo%20for%20(Cómo%20recorrer%20un%20diccionario).md)
+81. [Dominando los Diccionarios en Python (5 Ejercicios Clave)](Primera%20parte/Dominando%20los%20Diccionarios%20en%20Python%20(5%20Ejercicios%20Clave).md)
+82. [Ejercicio práctico 15 (frecuencia de letras en texto)](Primera%20parte/Ejercicio%20práctico%2015%20(frecuencia%20de%20letras%20en%20texto).md)
 83. [[Tuplas]]
 84. [[Acceder a los elementos de una tupla]]
 85. [[Elementos de una tupla (operador de segmentación)]]
