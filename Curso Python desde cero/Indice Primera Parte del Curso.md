@@ -90,20 +90,20 @@
 90. [090 La función tuple()](Primera%20parte/090%20La%20función%20tuple().md)
 91. [091 Concatenación de tuplas](Primera%20parte/091%20Concatenación%20de%20tuplas.md)
 92. [092 La función zip()](Primera%20parte/092%20La%20función%20zip().md)
-93. [[Ejercicio práctico 16 (Modificación de una tupla)]]
-94. [[Ejercicio práctico 17 (Seleccionador de Nombres)]]
-95. [[Ejercicio práctico 18 (Suma de Tuplas)]]
-96. [[Ejercicio práctico 19 (Ordenamiento de una tupla)]]
-97. [[Conjuntos - La función set()]]
-98. [[Subconjuntos - El método issubset()]]
-99. [[Superconjuntos - El método issuperset()]]
-100. [[Unión de conjuntos - El método union()]]
-101. [[Intersección de conjuntos - El método intersection()]]
-102. [[Diferencia de conjuntos - El método difference()]]
-103. [[Diferencia Simétrica - El método symmetric_difference]]
-104. [[Agregar un elementos a un conjunto - El método add()]]
-105. [[Agregar elementos a un conjunto - El método update()]]
-106. [[Eliminar elementos de un conjunto - Métodos remove() y discard()]]
+93. [093 Ejercicio práctico 16 (Modificación de una tupla)](Primera%20parte/093%20Ejercicio%20práctico%2016%20(Modificación%20de%20una%20tupla).md)
+94. [094 Ejercicio práctico 17 (Seleccionador de Nombres)](Primera%20parte/094%20Ejercicio%20práctico%2017%20(Seleccionador%20de%20Nombres).md)
+95. [095 Ejercicio práctico 18 (Suma de Tuplas)](Primera%20parte/095%20Ejercicio%20práctico%2018%20(Suma%20de%20Tuplas).md)
+96. [096 Ejercicio práctico 19 (Ordenamiento de una tupla)](Primera%20parte/096%20Ejercicio%20práctico%2019%20(Ordenamiento%20de%20una%20tupla).md)
+97. [097 Conjuntos - La función set()](Primera%20parte/097%20Conjuntos%20-%20La%20función%20set().md)
+98. [098 Subconjuntos - El método issubset()](Primera%20parte/098%20Subconjuntos%20-%20El%20método%20issubset().md)
+99. [099 Superconjuntos - El método issuperset()](Primera%20parte/099%20Superconjuntos%20-%20El%20método%20issuperset().md)
+100. [100 Unión de conjuntos - El método union()](Primera%20parte/100%20Unión%20de%20conjuntos%20-%20El%20método%20union().md)
+101. [101 Intersección de conjuntos - El método intersection()](Primera%20parte/101%20Intersección%20de%20conjuntos%20-%20El%20método%20intersection().md)
+102. [102 Diferencia de conjuntos - El método difference()](Primera%20parte/102%20Diferencia%20de%20conjuntos%20-%20El%20método%20difference().md)
+103. [103 Diferencia Simétrica - El método symmetric_difference](Primera%20parte/103%20Diferencia%20Simétrica%20-%20El%20método%20symmetric_difference.md)
+104. [104 Agregar un elementos a un conjunto - El método add()](Primera%20parte/104%20Agregar%20un%20elementos%20a%20un%20conjunto%20-%20El%20método%20add().md)
+105. [105 Agregar elementos a un conjunto - El método update()](Primera%20parte/105%20Agregar%20elementos%20a%20un%20conjunto%20-%20El%20método%20update().md)
+106. [106 Eliminar elementos de un conjunto - Métodos remove() y discard()](Primera%20parte/106%20Eliminar%20elementos%20de%20un%20conjunto%20-%20Métodos%20remove()%20y%20discard().md)
 107. [[Recorrer un conjunto con los ciclos for y while]]
 108. [[Expresiones de compresión en Python]]
 109. [[La función enumerate()]]

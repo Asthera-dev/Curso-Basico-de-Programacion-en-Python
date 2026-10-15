@@ -27,9 +27,47 @@ ages = [15, 30, 26, 12, 40]
 combination = zip(names, ages)
 
 print(combination)    # Salida: <zip object at 0x00000...........>
+```
+
+Como se observa, la impresión nos muestra un objeto y una referencia a memoria donde se almacena el objeto que creo la función. 
+
+```python
+# Ejemplo 2 (A lista):
+
+names = ("Luis", "Diego", "Andrés", "Carlos")
+ages = [15, 30, 26, 12, 40]
+
+combination = zip(names, ages)
 
 combination = list(combination)
 
 print(combination)    # Salida: [('Luis', 15), ('Diego', 30), ('Andrés', 26), ('Carlos', 12)]
+```
 
+```python
+# Ejemplo 2 (A tupla):
+
+names = ("Luis", "Diego", "Andrés", "Carlos")
+ages = [15, 30, 26, 12, 40]
+
+combination = zip(names, ages)
+
+combination = tuple(combination)
+
+print(combination)    # Salida: (('Luis', 15), ('Diego', 30), ('Andrés', 26), ('Carlos', 12))
+```
+
+Al convertir el iterador a una lista o tupla, podemos visualizar los elementos y, por supuesto, trabajar con ellos.
+
+Finalmente:
+
+> Se recomienda ejecutar el programa a continuación para observar su salida. Además, también se anima al lector a modificar los valores y agregar más elementos para crear un programa más completo.
+
+```python
+names = ("Luis", "Diego", "Andrés", "Carlos")
+ages = [15, 30, 26, 12, 40]
+text = "Empleados"
+
+for name, age, txt in zip(names, ages, text):
+	print(name, age, txt)
 ```
