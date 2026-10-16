@@ -110,9 +110,9 @@
 110. [110 La instrucción import](Primera%20parte/110%20La%20instrucción%20import.md)
 111. [111 El módulo random - Números aleatorios](Primera%20parte/111%20El%20módulo%20random%20-%20Números%20aleatorios.md)
 112. [112 Manejo de excepciones (try - except)](Primera%20parte/112%20Manejo%20de%20excepciones%20(try%20-%20except).md)
-113. [[Proyecto 1 - Adivina el número secreto]]
-114. [[Proyecto 2 - Piensa en un número]]
-115. [[Proyecto 3 - Tienda Virtual]]
-116. [[Proyecto 4 - Conversor de entero a romano]]
-117. [[Proyecto 5 - Conversor de romano a entero]]
-118. [[Primera parte/118 Final del curso - Generar ejecutable Python (Pyinstaller)]]
+113. [113 Proyecto 1 - Adivina el número secreto](Primera%20parte/113%20Proyecto%201%20-%20Adivina%20el%20número%20secreto.md)
+114. [114 Proyecto 2 - Piensa en un número](Primera%20parte/114%20Proyecto%202%20-%20Piensa%20en%20un%20número.md)
+115. [115 Proyecto 3 - Tienda Virtual](Primera%20parte/115%20Proyecto%203%20-%20Tienda%20Virtual.md)
+116. [116 Proyecto 4 - Conversor de entero a romano](Primera%20parte/116%20Proyecto%204%20-%20Conversor%20de%20entero%20a%20romano.md)
+117. [117 Proyecto 5 - Conversor de romano a entero](Primera%20parte/117%20Proyecto%205%20-%20Conversor%20de%20romano%20a%20entero.md)
+118. [118 Final del curso - Generar ejecutable Python (Pyinstaller)](Primera%20parte/118%20Final%20del%20curso%20-%20Generar%20ejecutable%20Python%20(Pyinstaller).md)
