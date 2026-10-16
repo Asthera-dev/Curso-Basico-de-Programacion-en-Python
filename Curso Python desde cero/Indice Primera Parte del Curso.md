@@ -104,12 +104,12 @@
 104. [104 Agregar un elementos a un conjunto - El método add()](Primera%20parte/104%20Agregar%20un%20elementos%20a%20un%20conjunto%20-%20El%20método%20add().md)
 105. [105 Agregar elementos a un conjunto - El método update()](Primera%20parte/105%20Agregar%20elementos%20a%20un%20conjunto%20-%20El%20método%20update().md)
 106. [106 Eliminar elementos de un conjunto - Métodos remove() y discard()](Primera%20parte/106%20Eliminar%20elementos%20de%20un%20conjunto%20-%20Métodos%20remove()%20y%20discard().md)
-107. [[Recorrer un conjunto con los ciclos for y while]]
-108. [[Expresiones de compresión en Python]]
-109. [[La función enumerate()]]
-110. [[La instrucción import]]
-111. [[El módulo random - Números aleatorios]]
-112. [[Manejo de excepciones (try - except)]]
+107. [107 Recorrer un conjunto con los ciclos for y while](Primera%20parte/107%20Recorrer%20un%20conjunto%20con%20los%20ciclos%20for%20y%20while.md)
+108. [108 Expresiones de compresión en Python](Primera%20parte/108%20Expresiones%20de%20compresión%20en%20Python.md)
+109. [109 La función enumerate()](Primera%20parte/109%20La%20función%20enumerate().md)
+110. [110 La instrucción import](Primera%20parte/110%20La%20instrucción%20import.md)
+111. [111 El módulo random - Números aleatorios](Primera%20parte/111%20El%20módulo%20random%20-%20Números%20aleatorios.md)
+112. [112 Manejo de excepciones (try - except)](Primera%20parte/112%20Manejo%20de%20excepciones%20(try%20-%20except).md)
 113. [[Proyecto 1 - Adivina el número secreto]]
 114. [[Proyecto 2 - Piensa en un número]]
 115. [[Proyecto 3 - Tienda Virtual]]
